@@ -2,7 +2,7 @@
 Code for analysis / figure generation of ["Comprehensive profiling of genomic invertons in defined gut microbial community reveals associations with intestinal colonization and surface adhesion"](https://www.biorxiv.org/content/10.1101/2024.06.01.596983v1)
 
 ## instructions:
-install dependencies, git clone repository, download [data](https://figshare.com/articles/dataset/hcom2-invertons/26060878) from figshare and extract into repository directory, run jupyter notebooks (set working directory prior to running).
+install dependencies, git clone repository, download [data](https://figshare.com/articles/dataset/hcom2-invertons/28091039) from figshare and extract into repository directory, run jupyter notebooks (set working directory prior to running).
 
 ## dependencies:
 * ### Python3
